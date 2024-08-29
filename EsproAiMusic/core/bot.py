@@ -8,7 +8,7 @@ from ..logging import LOGGER
 
 class EsproAi(Client):
     def __init__(self):
-        LOGGER(__name__).info(f"Starting Bot...")
+        LOGGER(__name__).info(f"𝐍𝐚𝐲𝐫𝐚 Starting Bot...")
         super().__init__(
             name="EsproAiMusic",
             api_id=config.API_ID,
