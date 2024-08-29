@@ -4,7 +4,7 @@ import random
 import requests
 from EsproAiMusic import app 
 
-SUPPORT_CHAT = "EsproSupport"
+SUPPORT_CHAT = "ll_SUKOON_ZONE_GROUP_ll"
 
 @app.on_message(filters.command("wish"))
 async def wish(_, m):
