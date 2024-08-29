@@ -23,7 +23,7 @@ BUTTON = InlineKeyboardMarkup(
             InlineKeyboardButton("๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏", url=f"https://t.me/{app.username}?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
         ],
         [
-            InlineKeyboardButton("𓆩〭〬𝄞⃝🌙 𝛅 𝛖 𝚱 ❍ ❍‌ η 乙 ❍‌ η 𝗘‌ 𝄞𝆺꯭𝅥─⃛͢⃝🫧", url=f"https://t.me/ll_SUKOON_ZONE_GROUP_llp")
+            InlineKeyboardButton("𓆩〭〬𝄞⃝🌙 𝛅 𝛖 𝚱 ❍ ❍‌ η 乙 ❍‌ η 𝗘‌ 𝄞𝆺꯭𝅥─⃛͢⃝🫧", url=f"https://t.me/ll_SUKOON_ZONE_GROUP_ll")
         ]
     ]
 )
