@@ -50,7 +50,7 @@ async def init():
         pass
     await EsproAi.decorators()
     LOGGER("EsproAiMusic").info(
-        "EsproAiMusic stated jaao enjoy karo \n Please 🥺 aapna gf haiwan ko de do please please please please 🥺🥺🥺🥺.."
+        "EsproAiMusic stated jaao enjoy karo \n Please 🥺 aapna gf ᴢɪᴅᴅɪ_ꜱʜᴀʏᴀʀ ko de do please please please please 🥺🥺🥺🥺.."
     )
     await idle()
     await app.stop()
