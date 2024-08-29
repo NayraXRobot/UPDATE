@@ -11,7 +11,7 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 
 🎧 ᴘʟᴀʏ + ᴠᴘʟᴀʏ + ᴄᴘʟᴀʏ 🎧
 
-➥ sᴜᴘᴘᴏʀᴛᴇᴅ ᴡᴇʟᴄᴏᴍᴇ - ʟᴇғᴛ ɴᴏᴛɪᴄᴇ, ᴛᴀɢᴀʟʟ, ᴠᴄᴛᴀɢ, ʙᴀɴ - ᴍᴜᴛᴇ, sʜᴀʏʀɪ, ʟᴜʀɪᴄs, sᴏɴɢ - ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ᴇᴛᴄ... 💕
+➥ sᴜᴘᴘᴏʀᴛᴇᴅ ᴡᴇʟᴄᴏᴍᴇ - ʟᴇғᴛ ɴᴏᴛɪᴄᴇ, ᴛᴀɢᴀʟʟ, ᴠᴄᴛᴀɢ, ʙᴀɴ - ᴍᴜᴛᴇ, sʜᴀʏʀɪ, ʟᴜʀɪᴄs, sᴏɴɢ - ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ᴇᴛᴄ... 💕 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➠ [•─┼ᶦϻͣ|| 💖♡ ᴢɪᴅᴅɪ_ꜱʜᴀʏᴀʀ ♡💖 ||]
 
 🔐ᴜꜱᴇ » [/start](https://t.me/{app.username}?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
@@ -23,7 +23,7 @@ BUTTON = InlineKeyboardMarkup(
             InlineKeyboardButton("๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏", url=f"https://t.me/{app.username}?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
         ],
         [
-            InlineKeyboardButton("๏ 𝗙𝐚𝐦𝐢𝐥𝐲 ටƒ 𝗙𝐫𝐢𝐞𝐧𝐝𝐬𝐡𝐢𝐩 ✨ ๏", url=f"https://t.me/FamilyOfFriendship")
+            InlineKeyboardButton("𓆩〭〬𝄞⃝🌙 𝛅 𝛖 𝚱 ❍ ❍‌ η 乙 ❍‌ η 𝗘‌ 𝄞𝆺꯭𝅥─⃛͢⃝🫧", url=f"https://t.me/ll_SUKOON_ZONE_GROUP_llp")
         ]
     ]
 )
