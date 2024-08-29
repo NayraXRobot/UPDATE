@@ -28,13 +28,18 @@ from strings import get_string
 
 
 Espro_PICS = [
-"https://graph.org/file/5946d56c70ac0ced52b18.jpg",
-"https://graph.org/file/5946d56c70ac0ced52b18.jpg",
-"https://graph.org/file/5946d56c70ac0ced52b18.jpg",
-"https://graph.org/file/5946d56c70ac0ced52b18.jpg",
-"https://graph.org/file/5946d56c70ac0ced52b18.jpg"
-
-
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg",
+"https://telegra.ph/file/e5f7cc882c1658729841f.jpg"
 ]
 
 
